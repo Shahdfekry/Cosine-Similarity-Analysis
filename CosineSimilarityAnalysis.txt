@@ -1,0 +1,10 @@
+Doc_6.txt - Cosine Similarity: 0.6030226891555273
+Doc_7.txt - Cosine Similarity: 0.3333333333333333
+Doc_2.txt - Cosine Similarity: 0.0
+Doc_1.txt - Cosine Similarity: 0.0
+Doc_8.txt - Cosine Similarity: 0.0
+Doc_10.txt - Cosine Similarity: 0.0
+Doc_3.txt - Cosine Similarity: 0.0
+Doc_5.txt - Cosine Similarity: 0.0
+Doc_4.txt - Cosine Similarity: 0.0
+Doc_9.txt - Cosine Similarity: 0.0
